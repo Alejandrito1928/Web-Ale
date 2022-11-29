@@ -1,0 +1,248 @@
+body{
+    background-size: cover;
+    background-attachment:scroll ;
+    background-image: url(https://www.desktopbackground.org/download/3840x2400/2010/04/17/3405_cool-simple-white-backgrounds-picture-gallery_5120x2880_h.jpg)
+}
+
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.titulo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    margin: center;
+    display: block;
+}
+
+.mi_vida{
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    display: block;
+    background-size: cover;
+    background-attachment:scroll ;
+    box-shadow:  1px 2px 10px rgb(255, 0, 0); 
+    background-color: rgb(242, 243, 244);
+}
+.mi_vida h1{
+    text-align: center;
+    display: block;
+    font-size: 2rem;
+    
+}
+.informacion_mia{
+    text-align: justify;
+}
+
+
+.Estudios{  
+    font-size: 2rem;
+    text-align: center;   
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    background-size: cover;
+    background-attachment:scroll ;
+    box-shadow:  1px 2px 10px rgb(253, 0, 0); 
+    background-color:rgb(229, 232, 232);
+}
+.Estudios h1{
+    text-align: center;
+    display: block;
+    font-size: 2rem;
+}
+
+
+.seccion_vida_personal{     
+    font-size: 2rem;
+    text-align: center;   
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    box-shadow:  1px 2px 10px rgb(255, 0, 0); 
+    background-color:rgb(204, 237, 247) ;
+ 
+}
+.seccion_vida_personal h1{
+    position: center;
+    text-align: center;
+    display: block;
+    font-size: 2.5rem;
+
+}
+
+/* mis compas */
+.seccion_imagen_titulo_compas{
+    font-size: 2rem;
+    text-align: center;   
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    box-shadow:  1px 2px 10px rgb(255, 0, 0); 
+    background-size: cover;
+    background-attachment:scroll ;
+    background-color: rgb(214, 219, 223 );
+}
+.seccion_imagen_titulo_compas h1{
+    width: auto;
+    height: 50%;
+    display: block;
+    text-align: center;
+    font-size: 4rem;    
+}
+
+.mis_compas_enlaces a:hover{
+    text-align: center;
+    background-color:rgb(255, 255, 255) ;
+    border-style: groove;
+}
+
+.mis_compas_enlaces a{
+    text-decoration-style: dotted;
+    font-size: 3rem;
+}
+/* mis compas */
+
+
+.imagen_perrito{
+    display: block;
+    width: 40rem;
+    height: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+/* fotos */
+
+.contacto{
+    font-size: 2rem;
+    text-align: center;   
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    box-shadow:  1px 2px 10px rgb(254, 0, 0); 
+    background-size: cover;
+    background-attachment:scroll ;
+    background-image: url(https://media1.popsugar-assets.com/files/thumbor/yS7UjmowsWxSvCq69a4-Tyn2qEc/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/01/14/843/n/1922507/7aa41d650bb323ac_ales-krivec-In7RdU6QY2M-unsplash/i/Cloud-Zoom-Background.jpg)
+}
+.contacto a{
+    text-decoration: none;
+
+}
+
+.seccion_mentores{
+    font-size: 2rem;
+    text-align: center;   
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    box-shadow:  1px 2px 10px rgb(255, 0, 0); 
+    background-color:rgb(182, 217, 241) ;
+}
+.seccion_Ernesto{
+    text-align: center;   
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    background-color:rgb(182, 217, 241) ;
+
+}
+.seccion_Yvan{
+    text-align: center;   
+    overflow: hidden;
+    position: center;
+    border-radius: 5px;
+    background-color:rgb(182, 217, 241) ;
+
+}
+.seccion_mentores a{
+    text-decoration: none;
+}
+
+.titulo_Mentores{
+    font-size: 3rem;
+
+}
+.enlaces_mentores{
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+
+
+/* fotos */
+.foto_de_mi_cara {
+    display: block;
+    width: 25rem;
+    height: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto_cusco {
+    display: block;
+    width: 40rem;
+    height: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto_de_la_uni {
+    display: block;
+    width: 40rem;
+    height: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foto_de_la_uni_aerea {
+    display: block;
+    width: 40rem;
+    height: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foto_de_la_uni_carrera {
+    display: block;
+    width: 40rem;
+    height: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foto_carrera {
+    display: block;
+    width: 25rem;
+    height: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foto_Arequipa {
+    display: block;
+    width: 40rem;
+    height: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagen_perrito {
+    display: block;
+    width: 25rem;
+    height: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
